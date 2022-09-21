@@ -1,1 +1,3 @@
 GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks. See võimaldab teil ja teistel kõikjal projektidega koos töötada.
+Mina saan kasutada GitHubi programeerimise tunnis.
+GitHub asutati 2008 tom preston werner, scott chacon, chris wanstrath ja p. j. hyett poolt. GitHubi teenus on kättesaadaval aastast 2008
